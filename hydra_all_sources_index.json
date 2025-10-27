@@ -1,0 +1,106 @@
+{
+  "generated_on": "2025-10-27",
+  "note": "Compiled from Hydra official docs, Hydra community libraries and popular community lists (see citations in assistant message). This list is comprehensive based on publicly-available sources found during a web search but may not include every single community source (many lists are dynamic).",
+  "sources": [
+    {
+      "name": "HydraLibrary (community index)",
+      "url": "https://library.hydra.wiki/library"
+    },
+    {
+      "name": "Hydra official docs - download sources (format)",
+      "url": "https://docs.hydralauncher.gg/download-sources"
+    },
+    {
+      "name": "Hydra official site (home/download)",
+      "url": "https://hydralauncher.gg/"
+    },
+    {
+      "name": "Hydra GitHub (project)",
+      "url": "https://github.com/hydralauncher/hydra"
+    },
+    {
+      "name": "HydraLibrary (Moyasee) demo",
+      "url": "https://moyasee.github.io/HydraLibrary/"
+    },
+    {
+      "name": "KekitU - Rutracker Hydra links (all categories JSON)",
+      "url": "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/all_categories.json"
+    },
+    {
+      "name": "KekitU - Games for Linux JSON",
+      "url": "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/games_for_linux.json"
+    },
+    {
+      "name": "HydraLinks - fitgirl (community source)",
+      "url": "https://hydralinks.cloud/sources/fitgirl.json"
+    },
+    {
+      "name": "HydraLinks - dodi (community source)",
+      "url": "https://hydralinks.cloud/sources/dodi.json"
+    },
+    {
+      "name": "HydraLinks - xatab (community source)",
+      "url": "https://hydralinks.cloud/sources/xatab.json"
+    },
+    {
+      "name": "HydraLinks - tinyrepacks (community source)",
+      "url": "https://hydralinks.cloud/sources/tinyrepacks.json"
+    },
+    {
+      "name": "HydraLinks - onlinefix (community source)",
+      "url": "https://hydralinks.cloud/sources/onlinefix.json"
+    },
+    {
+      "name": "HydraLinks - kaoskrew (community source)",
+      "url": "https://hydralinks.cloud/sources/kaoskrew.json"
+    },
+    {
+      "name": "HydraLinks - gog (community source)",
+      "url": "https://hydralinks.cloud/sources/gog.json"
+    },
+    {
+      "name": "HydraLinks - empress (community source)",
+      "url": "https://hydralinks.cloud/sources/empress.json"
+    },
+    {
+      "name": "HydraLinks - steamrip (community source)",
+      "url": "https://hydralinks.cloud/sources/steamrip.json"
+    },
+    {
+      "name": "HydraLinks - atop-games (community source)",
+      "url": "https://hydralinks.cloud/sources/atop-games.json"
+    },
+    {
+      "name": "HydraLinks - repack-games (community source)",
+      "url": "https://hydralinks.cloud/sources/repack-games.json"
+    },
+    {
+      "name": "HydraLinks (pages.dev) - fitgirl mirror",
+      "url": "https://hydralinks.pages.dev/sources/fitgirl.json"
+    },
+    {
+      "name": "HydraLibrary GitHub repo (source list)",
+      "url": "https://github.com/Moyasee/HydraLibrary"
+    },
+    {
+      "name": "HydraLibrary live site (library.hydra.wiki)",
+      "url": "https://library.hydra.wiki/library"
+    },
+    {
+      "name": "Feather README example list (community links)",
+      "url": "https://github.com/googprojects/Feather"
+    },
+    {
+      "name": "KekitU - raw category: Games for Windows",
+      "url": "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/games_for_windows.json"
+    },
+    {
+      "name": "KekitU - raw category: Hot Novelties",
+      "url": "https://raw.githubusercontent.com/KekitU/rutracker-hydra-links/main/hot_novelties.json"
+    },
+    {
+      "name": "Popular community index (hydralinks.cloud root)",
+      "url": "https://hydralinks.cloud/sources/"
+    }
+  ]
+}
